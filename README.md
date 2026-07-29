@@ -39,21 +39,6 @@ cd Zetech-class-work-space
 
 Open the folder in your preferred IDE or editor and run the specific project according to its requirements.
 
-## 📂 Project Structure
-
-```text
-Zetech-class-work-space/
-│
-├── Assignment-1/
-├── Assignment-2/
-├── Labs/
-├── Projects/
-├── Notes/
-└── README.md
-```
-
-> The actual folder structure may vary as new coursework is added throughout the semester.
-
 ## 🎯 Purpose
 
 This repository is intended to:
